@@ -1,0 +1,11 @@
+@import 'variables';
+
+body {
+  font: $font-primary;
+
+  .color-block {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+  }
+}
